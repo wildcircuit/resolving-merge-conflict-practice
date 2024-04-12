@@ -1,1 +1,1 @@
-# resolving-merge-conflict-practice-first-branch
+# resolving-merge-conflict-practice-second-branch
